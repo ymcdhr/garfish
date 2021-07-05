@@ -2,13 +2,13 @@
 
 ## 安装
 
-```console
+```bash
 yarn setup
 ```
 
 ## 本地开发
 
-```console
+```bash
 yarn start
 ```
 
@@ -16,7 +16,7 @@ yarn start
 
 ## 构建
 
-```console
+```bash
 yarn build
 ```
 
